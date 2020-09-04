@@ -1,0 +1,1 @@
+# Rain-sensor-for-Somfy-motorized-awning
